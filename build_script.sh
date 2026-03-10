@@ -1,4 +1,3 @@
 #!/bin/bash
 echo "Build process started..."
-echo "Build completed successfully!" 
-
+echo "Build completed successfully!"  .
